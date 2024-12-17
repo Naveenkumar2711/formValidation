@@ -1,0 +1,16 @@
+body{
+    
+    margin-left:35px;
+    display: flex;
+}
+.allignedinput{
+    margin-left: 27px;
+ 
+}
+button{
+    cursor: pointer;
+}
+table{
+background-color: aliceblue;
+}
+
